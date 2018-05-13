@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[112.1742644,-7.0960712],[112.1742082,-7.0958941],[112.1741541,-7.0956597],[112.1738636,-7.0942893],[112.1738166,-7.0940748],[112.1737629,-7.0938566],[112.173635,-7.0932699],[112.1735117,-7.0926368],[112.1733686,-7.0919615],[112.1732247,-7.0912892],[112.1726232,-7.0883751],[112.1724909,-7.0877967],[112.1723507,-7.0872675],[112.1721185,-7.0866725]]},"properties":{"osm_id":"23783242","aeroway":"","amenity":"","bridge":"","building":"","capacity":"","highway":"trunk","layer":"","name":"Jalan Raya Tuban-Widang-Babat","oneway":"","operator":"","parking":"","public_tra":"","railway":"","smoothness":"","surface":"","tunnel":"","width":"","z_index":"8"}}
+]}
